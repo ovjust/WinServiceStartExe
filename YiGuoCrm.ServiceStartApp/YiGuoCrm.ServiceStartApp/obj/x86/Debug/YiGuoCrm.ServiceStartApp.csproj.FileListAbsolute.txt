@@ -1,0 +1,11 @@
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\Install.bat
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\Uninstall.bat
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\YiGuoCrm.ServiceStartApp.exe.config
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\YiGuoCrm.ServiceStartApp.exe
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\YiGuoCrm.ServiceStartApp.pdb
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\obj\x86\Debug\YiGuoCrm.ServiceStartApp.ProjectInstaller.resources
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\obj\x86\Debug\YiGuoCrm.ServiceStartApp.csproj.GenerateResource.Cache
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\obj\x86\Debug\YiGuoCrm.ServiceStartApp.exe
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\obj\x86\Debug\YiGuoCrm.ServiceStartApp.pdb
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\Cjwdev.WindowsApi.dll
+E:\测试项目\YiGuoCrm.ServiceStartApp\YiGuoCrm.ServiceStartApp\bin\x86\Debug\Cjwdev.WindowsApi.xml

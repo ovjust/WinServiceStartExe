@@ -1,0 +1,15 @@
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\Install.bat
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\Uninstall.bat
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\YiGuoCrm.ServiceStartApp.exe
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\YiGuoCrm.ServiceStartApp.pdb
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\YiGuoCrm.ServiceStartApp.exe.config
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\App.config
+E:\测试项目\YiGuoCrm.ServiceStartApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

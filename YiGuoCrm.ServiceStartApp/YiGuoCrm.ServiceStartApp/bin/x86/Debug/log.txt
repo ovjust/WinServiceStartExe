@@ -1,0 +1,1 @@
+2015/6/30 9:45:09 appStart C:\Program Files (x86)\MyDrivers\DriverGenius2013\drivergenius.exe;C:\Windows\notepad.exe;E:\CRMtfs\YIGUO\CRM\YiGuoCrmSolution\YIGUO_CRM_Solution\YiGuoCrm.Service\bin\Debug\YiGuoCrm.Service.exe

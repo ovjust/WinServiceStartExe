@@ -1,0 +1,25 @@
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\Install.bat
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\Uninstall.bat
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\bin\x86\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\Install.bat
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\Uninstall.bat
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\CSCreateProcessAsUserFromService.exe.config
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\bin\x86\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

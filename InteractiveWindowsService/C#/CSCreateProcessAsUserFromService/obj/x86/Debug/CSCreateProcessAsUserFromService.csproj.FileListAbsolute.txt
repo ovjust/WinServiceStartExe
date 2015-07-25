@@ -1,0 +1,18 @@
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CPAUDemoInCSharpService.ProjectInstaller.resources
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.csproj.GenerateResource.Cache
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\Debug\Install.bat
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\Debug\Uninstall.bat
+C:\Users\liyikun.YIGUO\Downloads\Interactive Windows Service (CSCreateProcessAsUserFromService)\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.csprojResolveAssemblyReference.cache
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\Debug\Install.bat
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\Debug\Uninstall.bat
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CPAUDemoInCSharpService.ProjectInstaller.resources
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.csproj.GenerateResource.Cache
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.exe
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\CSCreateProcessAsUserFromService\obj\x86\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\Debug\CSCreateProcessAsUserFromService.pdb
+C:\Users\liyikun.YIGUO\Downloads\InteractiveWindowsService\C#\Debug\CSCreateProcessAsUserFromService.exe.config
